@@ -1,52 +1,34 @@
 class script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
+    START_TXT = """Hai kak {}
+Saya adalah Bot VIP yang di buat oleh Putri,"""
 
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
-Thats All, i will Provide Movies There...🤓🤪
-
-
-⚠️More Help Check Help Button Below
-
-😎 Powered by @TelMovID21
-
-©️ Maintained By @TMID_CSbot"""
     HELP_TXT = """
-    🙋🏻‍♂️   Hellooo  {} 🤓
+    Hai kak {}
 
-○  Tutorial video is here @sources_cods
+○  News @TelMovIDnews
+○  Update @TelMovID21
+○  Bantuan @TelMovIDhelp
 
-○  it's Note Complicated...🤓
-
-○  Search using inline mode
-This methord works on any chat, Just type @TelMovID21 and then leave a space and search any movie you want...
-
-○ Available Commands
-     
+○ Perintah yang tersedia:
  /start - Check I'm Alive..
  /status - Bot Status
  /info - User info 
  /id - User id
  /stats - Db status  
- /broadcast - Broadcast (owner only)
+ /broadcast - Broadcast (owner only)"""
+ 
+    ABOUT_TXT = """○ Bot: {}
+○ Pemilik: <a href=https://t.me/TelMovID21>Putri</a>
 
-○ Notice 📙:-
+○ Media sosial TelMovID
+Youtube:
+TikTok:
+Instagram:
+Facebok:"""
 
-○Dont Spam Me...🤒
-
-😎 Powered by @TelMovID21
-
-©️ Maintained By @TelMovID21"""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TelMovID21>ᴀᴍ_ᴛᴇᴄʜ</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
-- Source - https://t.me/TelMovID21  
+- Source - https://github.com/EvamariaTG/EvaMaria  
 
 <b>DEVS:</b>
 - <a href=https://t.me/TelMovID21>ᴀᴍ_ᴛᴇᴄʜ</a>"""
